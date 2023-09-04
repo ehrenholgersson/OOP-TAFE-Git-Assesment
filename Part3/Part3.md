@@ -23,7 +23,7 @@ git config --global user.name "<Username>"
 git config --global user.email "<emailaddress>"
 ```
 
-## 3.2 -  Git Best Practices
+## 3.2 - Git Best Practices
 
 * Keep Comments Clear and concise - It should be easy to understand quickly from reading the comment what has been changed in a commit
 * Try to limit commits to one fix or change - this makes it easier to write clear comments and also to revert that change if necessary
@@ -40,5 +40,5 @@ git config --global user.email "<emailaddress>"
 6. Make changes/fixes to code
 7. Test changes before commit
 8. Add/Commit changes with clear comments
-9. One team member responsible for merging updates to staging to chck for merge conflicts and perform other testing before merging into main branch.
+9. One team member responsible for merging updates to staging to check for merge conflicts and perform other testing before merging into main branch.
 
