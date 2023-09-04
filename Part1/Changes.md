@@ -30,6 +30,8 @@
 
 04/09/2023 - Additional spelling/formatting fixes
 
+04/09/2023 - Resolve issues with images in part 3 not showing on github
+
 [Return to Part1.md](/Part1/Part1.md)
 
 [Return to README](/README.md)

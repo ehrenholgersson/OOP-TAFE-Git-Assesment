@@ -10,11 +10,11 @@ Download git [here](https://github.com/git-for-windows/git/releases/download/v2.
 
 2. Accept the user agreement and click install.
 
-![EULA](/Images/EULA.png)
+![EULA](/Part3/Images/EULA.png)
 
 3. Wait for install to complete and select Finish
 
-![Done](/Images/done.png)
+![Done](/Part3/Images/done.png)
 
 4. Open either Windows command prompt or git bash and setup name and email with the following commands:
 
