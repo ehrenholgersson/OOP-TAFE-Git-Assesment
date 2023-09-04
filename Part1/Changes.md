@@ -16,6 +16,14 @@
 
 30/08/2023 - fixed markdown links
 
+30/08/2023 - completed Part 2
+
+04/09/2023 - Added Best practices and workflow to Part 3
+
+04/09/2023 - Resolved Merge conflict in Changes.md
+
+04/09/2023 - updated Changes.md
+
 [Return to Part1.md](/Part1/Part1.md)
 
 [Return to README](/README.md)
