@@ -32,6 +32,8 @@
 
 04/09/2023 - Resolve issues with images in part 3 not showing on github
 
+04/09/2023 - Fixed return to Readme link to Part 3
+
 [Return to Part1.md](/Part1/Part1.md)
 
 [Return to README](/README.md)

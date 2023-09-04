@@ -42,3 +42,4 @@ git config --global user.email "<emailaddress>"
 8. Add/Commit changes with clear comments
 9. One team member responsible for merging updates to staging to check for merge conflicts and perform other testing before merging into main branch.
 
+[Return to README](/README.md)
