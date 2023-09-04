@@ -26,6 +26,8 @@
 
 04/09/2023 - renamed Part3.md to match naming of other files
 
+04/09/2023 - spelling and formatting update, added missing links to return to main README
+
 [Return to Part1.md](/Part1/Part1.md)
 
 [Return to README](/README.md)
