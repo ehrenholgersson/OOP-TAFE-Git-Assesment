@@ -49,6 +49,7 @@ Git reset will move both the head and the branch reference to a specified commit
 
 ### Question 11
 False
+hidden change
 
 ### Question 12
 True
