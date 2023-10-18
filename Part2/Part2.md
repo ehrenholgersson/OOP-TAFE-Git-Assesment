@@ -52,6 +52,7 @@ Git Revert creates a new commit, which modifies the code to resemble the state i
 
 ### Question 11.	True or False: It is okay to commit broken code to the main branch.
 False
+hidden change
 
 ### Question 12.	True or False: You should commit related changes. For example, fixing two different bugs should produce two separate commits.
 True
