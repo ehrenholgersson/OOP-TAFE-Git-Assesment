@@ -23,12 +23,19 @@ git config --global user.name "<Username>"
 git config --global user.email "<emailaddress>"
 ```
 
-## 3.2 - Git Best Practices
+## 3.2a - Git Best Practices for commits
 
 * Keep Comments Clear and concise - It should be easy to understand quickly from reading the comment what has been changed in a commit
 * Try to limit commits to one fix or change - this makes it easier to write clear comments and also to revert that change if necessary
 * Use Branching when working on a new feature - This allows a feature to be worked upon without interfering with other work
 * Commit working, tested code - Confirm code is behaving as expected before sharing it with others.
+
+## 3.2a - Git Best Practices for repos
+* Limit each repository to one project
+* Include a README in each repository
+* For collabarative work, prefer branching over forking
+* Use Large File Storage
+* Name the repository in a way that clearly identifies the project
  
 ## 3.3 - Git Workflow
 
