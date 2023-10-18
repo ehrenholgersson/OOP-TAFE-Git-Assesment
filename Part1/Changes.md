@@ -34,6 +34,10 @@
 
 04/09/2023 - Fixed return to Readme link to Part 3
 
+18/10/2023 - Added missing Q10 in part 2 and added questions
+
+18/10/2023 - Updated Changes and fixed formatting in part 2 (Q14 and 15)
+
 [Return to Part1.md](/Part1/Part1.md)
 
 [Return to README](/README.md)

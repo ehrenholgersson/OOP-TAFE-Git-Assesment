@@ -30,7 +30,7 @@ git config --global user.email "<emailaddress>"
 * Use Branching when working on a new feature - This allows a feature to be worked upon without interfering with other work
 * Commit working, tested code - Confirm code is behaving as expected before sharing it with others.
 
-## 3.2a - Git Best Practices for repos
+## 3.2b - Git Best Practices for repos
 * Limit each repository to one project
 * Include a README in each repository
 * For collabarative work, prefer branching over forking

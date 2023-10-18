@@ -59,7 +59,7 @@ True
 ### Question 13.	Describe what is DevOps, how is it useful for game developers?
 DevOps is a software development methodology intended to unify processes and practices used in development of a project with those used in its deployment and support. DevOps is useful for game developers as it can streamline communications and team management on a project, and can greatly reduce the time to build and deploy a project.
 
-## Question 14.	List what tools can be used with DevOps. Give a brief description of each one. (at least 3)
+### Question 14.	List what tools can be used with DevOps. Give a brief description of each one. (at least 3)
 Some DevOps tools:
 
 * Puppet - Puppet is a tool for automating server configuration
@@ -67,7 +67,7 @@ Some DevOps tools:
 * Jenkins - Jenkins help to automate building testing and deployment of software projects
 * Incredibuild - Incredibuld is grid computing software which can distribute software compilation or other intensive tasks across multiple systems on a network
 
-## Question 15.	What is CI/CD and how can it be used to automate the game development process?
+### Question 15.	What is CI/CD and how can it be used to automate the game development process?
 CI/CD stands for continuous integration/continuous deployment (or sometimes delivery). It automates building testing and deployment of small incremental updates to a project, with the aim to provide faster release cycles. 
 
 [Return to README](/README.md)
